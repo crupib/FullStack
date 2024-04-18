@@ -1,3 +1,4 @@
+import React from 'react'
 const Card = ({car}) => {
     let {brand, price, model, year, color} = car    
     return (
